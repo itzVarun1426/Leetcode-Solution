@@ -4,5 +4,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0550-game-play-analysis-iv](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0550-game-play-analysis-iv) |
 | [1193-monthly-transactions-i](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/1193-monthly-transactions-i) |
 <!---LeetCode Topics End-->
