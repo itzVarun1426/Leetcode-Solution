@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0180-consecutive-numbers) |
 | [0550-game-play-analysis-iv](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0550-game-play-analysis-iv) |
 | [0596-classes-with-at-least-5-students](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0596-classes-with-at-least-5-students) |
 | [0610-triangle-judgement](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0610-triangle-judgement) |
