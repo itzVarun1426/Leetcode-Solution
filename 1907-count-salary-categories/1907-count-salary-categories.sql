@@ -28,9 +28,9 @@
 
 #this is not the only solution you can find below is also a solution for this questoin where 3 individual tables are created with each category and there count of the condition and union of all of them
 
-SELECT 'Low Salary' AS category,
-    COUNT(CASE WHEN income<20000 THEN 1 END) AS accounts_count
+SELECT 'Low Salary' AS category, COUNT(*) AS accounts_count
 FROM Accounts
+WHERE income < 20000
 
 UNION ALL
 
