@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1164-product-price-at-a-given-date](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/1164-product-price-at-a-given-date) |
 | [1193-monthly-transactions-i](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/1193-monthly-transactions-i) |
+| [1321-restaurant-growth](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/1321-restaurant-growth) |
 | [1729-find-followers-count](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1789-primary-department-for-each-employee](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/1789-primary-department-for-each-employee) |
