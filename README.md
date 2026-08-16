@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -138,10 +140,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
