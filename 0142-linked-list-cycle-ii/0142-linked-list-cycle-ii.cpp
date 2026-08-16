@@ -8,22 +8,22 @@
  */
 class Solution {
 public:
-    bool IsLoop(ListNode* head , ListNode *&slow , ListNode *&fast) {
-        slow = head;
-        fast = head;
-        while (fast->next && fast->next->next) {
+    ListNode* IsLoop(ListNode* head ) {
+        ListNode* slow = head;
+        ListNode* fast = head;
+        while (fast && fast->next) {
             slow = slow->next;
             fast = fast->next->next;
             if (slow == fast) {
-                return 1;
+                return slow;
             }
         }
-        return 0;
+        return NULL;
     }
     ListNode* detectCycle(ListNode* head) {
         if(head==NULL)return NULL;
-        ListNode *slow = NULL, *fast = NULL;
-        if (IsLoop(head,slow,fast) == 0)
+        ListNode *slow = NULL, *fast = IsLoop(head);
+        if (fast == NULL)
             return NULL;
         else {
             slow = head;
