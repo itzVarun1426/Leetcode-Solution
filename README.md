@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 | [1140-stone-game-ii](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/1510-stone-game-iv) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
