@@ -3,44 +3,27 @@ public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
 
         int carry = 0;
+        ListNode* dummy = new ListNode(0);
+        ListNode* back = dummy;
+        ListNode* tempL1 = l1;
+        ListNode* tempL2 = l2;
 
-        ListNode* result = nullptr;
-        ListNode* back = nullptr;
-
-        while (l1 || l2) {
-
-            int val1 = l1 ? l1->val : 0;
-            int val2 = l2 ? l2->val : 0;
-
-            int sum = val1 + val2 + carry;
-
-            int digit = sum % 10;
-            carry = sum / 10;
-
-            ListNode* newNode = new ListNode(digit);
-
-            // First node
-            if (!result) {
-                result = newNode;
-                back = newNode;
+        while (tempL1 || tempL2 || carry) {
+            int tempSum = carry;
+            if(tempL1){
+                tempSum+= tempL1->val;
+                tempL1 = tempL1->next;
             }
-            else {
-                back->next = newNode;
-                back = newNode;
+            if(tempL2){
+                tempSum+= tempL2->val;
+                tempL2 = tempL2->next;
             }
-
-            if (l1)
-                l1 = l1->next;
-
-            if (l2)
-                l2 = l2->next;
+            ListNode* newNode = new ListNode(tempSum%10);
+            carry = tempSum/10;
+            back->next = newNode;
+            back = back->next; 
         }
+        return dummy->next;
 
-        // Remaining carry
-        if (carry) {
-            back->next = new ListNode(carry);
-        }
-
-        return result;
     }
 };
