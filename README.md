@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/1510-stone-game-iv) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Minimax
 |  |
 | ------- |
