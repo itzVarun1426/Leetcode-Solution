@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/3903-smallest-stable-index-i) |
 ## Minimax
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/1140-stone-game-ii) |
+| [3903-smallest-stable-index-i](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/3903-smallest-stable-index-i) |
 ## Game Theory
 |  |
 | ------- |
