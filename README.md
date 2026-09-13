@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/1140-stone-game-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -209,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
