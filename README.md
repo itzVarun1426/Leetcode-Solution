@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0115-distinct-subsequences) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Array
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
