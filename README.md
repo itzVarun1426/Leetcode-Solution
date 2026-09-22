@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/1510-stone-game-iv) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/3525-find-x-value-of-array-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3871-count-commas-in-range-ii](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
+| [3525-find-x-value-of-array-ii](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/3525-find-x-value-of-array-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/3903-smallest-stable-index-i) |
 ## Minimax
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3525-find-x-value-of-array-ii](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/3525-find-x-value-of-array-ii) |
 ## Ordered Set
 |  |
 | ------- |
