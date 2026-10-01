@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0115-distinct-subsequences) |
 | [1021-remove-outermost-parentheses](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/1096-brace-expansion-ii) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
