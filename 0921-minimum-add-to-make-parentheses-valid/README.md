@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-add-to-make-parentheses-valid">957. Minimum Add to Make Parentheses Valid</a></h2><h3>Medium</h3><hr><p>A parentheses string is valid if and only if:</p>
+<h2><a href="https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/solutions/8558121/0ms-beats-10000-easy-approach-and-step-b-a1fo/?envType=daily-question&envId=2026-10-06">957. Minimum Add to Make Parentheses Valid</a></h2><h3>Medium</h3><hr><p>A parentheses string is valid if and only if:</p>
 
 <ul>
 	<li>It is the empty string,</li>
