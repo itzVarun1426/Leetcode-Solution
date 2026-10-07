@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0199-binary-tree-right-side-view) |
+| [0301-remove-invalid-parentheses](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0301-remove-invalid-parentheses) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/3310-remove-methods-from-project) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/1021-remove-outermost-parentheses) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
