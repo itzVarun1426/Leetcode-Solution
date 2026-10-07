@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0007-reverse-integer) |
+| [0204-count-primes](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0204-count-primes) |
 | [1140-stone-game-ii](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/1510-stone-game-iv) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0204-count-primes) |
 | [0835-image-overlap](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/1140-stone-game-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -285,4 +288,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
