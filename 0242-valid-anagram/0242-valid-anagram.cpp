@@ -1,22 +1,22 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        if(s.size() != t.size())
+        if (s.length() != t.length()) {
             return false;
-
-        unordered_map<char, int> scount;
-        unordered_map<char, int> tcount;
-
-        for(int i = 0; i < s.size(); i++) {
-            // Count frequency of characters in both strings
-            scount[s[i]]++;
-            tcount[t[i]]++;
         }
-
-        // Both strings are anagrams if frequencies match
-        if(scount == tcount)
-            return true;
-
-        return false;
+        
+        vector<int> freq(26, 0);
+        for (int i = 0; i < s.length(); i++) {
+            freq[s[i] - 'a']++;
+            freq[t[i] - 'a']--;
+        }
+        
+        for (int i = 0; i < freq.size(); i++) {
+            if (freq[i] != 0) {
+                return false;
+            }
+        }
+        
+        return true;
     }
 };
