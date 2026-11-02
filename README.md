@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0007-reverse-integer) |
 | [0204-count-primes](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0204-count-primes) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1140-stone-game-ii](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/1510-stone-game-iv) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0204-count-primes) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0835-image-overlap](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/1140-stone-game-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0242-valid-anagram) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
