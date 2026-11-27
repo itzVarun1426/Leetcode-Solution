@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Greedy
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Array
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3882-minimum-xor-path-in-a-grid](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/3903-smallest-stable-index-i) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/itzVarun1426/Leetcode-Solution/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Minimax
 |  |
 | ------- |
